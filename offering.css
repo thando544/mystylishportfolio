@@ -1,0 +1,33 @@
+
+:root{
+    --background-color: #1d809f;
+    --color: #f0b800;
+}
+
+
+.offering__section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    color: #fff;
+    background-color: var(--background-color);
+    text-transform: capitalize;
+}
+
+.offering__content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    
+}
+
+.item{
+    text-align: center;
+}
+
+.offering__title{
+    color: var(--color);
+}
