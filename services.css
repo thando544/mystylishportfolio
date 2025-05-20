@@ -28,4 +28,7 @@
         text-align: center;
         height: 45vh;
     }
+    .services__btn{
+        width: 120px;
+    }
 }

@@ -121,4 +121,23 @@ color: #fff;
 iframe{
     width: 100%;
 }
+
+.buttons__again{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.btn1{
+    width: 110px;
+}
+
+.btn2{
+    width: 110px;
+}
+
+.mybuttons__btn{
+    display: flex;
+}
 }
