@@ -17,3 +17,15 @@
     cursor: pointer;
     margin-top: 1rem;
 }
+
+@media (max-width: 420px){
+    .services__title{
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .stylish__services{
+        text-align: center;
+        height: 45vh;
+    }
+}
